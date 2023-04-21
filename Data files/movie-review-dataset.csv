@@ -1,0 +1,663 @@
+review,sentiment
+This movie was great!,1
+The acting was terrible,0
+I loved this film,1
+It was a waste of time,0
+The plot was predictable,0
+This is a must-watch movie,1
+I would not recommend this movie,0
+The cinematography was stunning,1
+The script was weak,0
+The ending was disappointing,0
+This is the best movie ever!,1
+I regret watching this film,0
+The characters were well-developed,1
+It was too slow-paced,0
+I was on the edge of my seat the whole time,1
+The special effects were amazing,1
+I was bored throughout the entire movie,0
+The soundtrack was beautiful,1
+The dialogue was cheesy,0
+I would watch this movie again and again,1
+The story was compelling,1
+It was a complete disaster,0
+The direction was superb,1
+I couldn't stand this movie,0
+The cast did a fantastic job,1
+It was a total waste of money,0
+The film was thought-provoking,1
+I didn't understand the plot,0
+The editing was well done,1
+This movie made me cry,1
+It was a mind-bending experience,1
+I was disappointed by this film,0
+The humor was spot-on,1
+I would not recommend this to anyone,0
+The production design was outstanding,1
+I couldn't take this movie seriously,0
+The acting was phenomenal,1
+It was a bit too long,0
+The movie kept me engaged the entire time,1
+I wish I had not seen this movie,0
+The story was original and refreshing,1
+It was a complete letdown,0
+The score was perfect,1
+I couldn't connect with the characters,0
+The film was visually stunning,1
+I fell asleep during this movie,0
+The chemistry between the actors was amazing,1
+It was a waste of my time and money,0
+The pacing was perfect,1
+I was very disappointed in this film,0
+The suspense was thrilling,1
+This movie was a masterpiece,1
+I found the plot to be confusing,0
+The acting was mediocre,0
+I was pleasantly surprised by this film,1
+The special effects were lackluster,0
+I was blown away by this movie,1
+The film was too long,0
+The characters were one-dimensional,0
+The direction was mediocre,0
+I couldn't stand the soundtrack,0
+The movie was too slow,0
+The plot was cliché,0
+The cinematography was mediocre,0
+I was entertained throughout the entire film,1
+The acting was wooden,0
+The film was too predictable,0
+The dialogue was cringe-worthy,0
+The special effects were cheesy,0
+The pacing was too fast,0
+This movie was a waste of time and money,0
+The direction was lackluster,0
+I loved this movie from start to finish,1
+The plot was convoluted,0
+The acting was superb,1
+I was disappointed by the ending,0
+The soundtrack was forgettable,0
+The film was beautifully shot,1
+I couldn't get into this movie,0
+The script was brilliant,1
+The editing was choppy,0
+I was completely invested in this film,1
+Loved it! Best movie ever.,1
+Worst movie I've ever seen.,0
+Great performances, but plot was weak.,0
+Funny and heartwarming, perfect family movie.,1
+Absolutely terrible, waste of time.,0
+Thrilling action and suspense throughout.,1
+Boring and predictable, couldn't finish it.,0
+Unexpected plot twists, kept me on edge.,1
+Predictable and cliche, disappointed.,0
+Hilarious and entertaining, a must-see comedy.,1
+Excellent acting, but slow-paced and dull.,0
+Suspenseful and well-written, a great thriller.,1
+Disappointing and underwhelming, not worth watching.,0
+Charming and heartwarming, a feel-good movie.,1
+Predictable and boring, don't waste your time.,0
+Great movie!,1
+Worst film ever.,0
+I loved it!,1
+Terrible acting ruins this one.,0
+Awesome film!,1
+Don't waste your time.,0
+Incredible performance by the lead actor.,1
+Horrible plot, terrible ending.,0
+Excellent direction and cinematography.,1
+Dreadful dialogue ruins this film.,0
+The best movie I've seen all year.,1
+I couldn't stand it.,0
+Impressive special effects.,1
+A complete waste of money.,0
+Highly recommended!,1
+I wouldn't recommend this to anyone.,0
+This movie was fantastic!,1
+The acting was mediocre but the plot was intriguing.,0
+I was on the edge of my seat the entire time.,1
+I thought the ending was lackluster.,0
+The special effects were amazing.,1
+The cinematography was beautiful.,1
+I couldn't follow the plot.,0
+The humor fell flat.,0
+I can't wait to watch it again!,1
+The story was captivating.,1
+The characters were well-developed.,1
+I didn't care about any of the characters.,0
+The dialogue was witty.,1
+The pacing was slow.,0
+I loved the soundtrack.,1
+The costume design was stunning.,1
+I found the movie confusing.,0
+The visuals were breathtaking.,1
+The script was uninspired.,0
+The acting was superb.,1
+I couldn't look away.,1
+The direction was top-notch.,1
+The writing was weak.,0
+The twists kept me guessing.,1
+The CGI was impressive.,1
+I was bored from start to finish.,0
+I didn't understand the point of the movie.,0
+I was completely invested in the story.,1
+The score was hauntingly beautiful.,1
+The themes were thought-provoking.,1
+I thought the acting was overrated.,0
+The ending was predictable.,0
+The set design was impressive.,1
+I didn't care about the story.,0
+The tension was palpable.,1
+The movie was too long.,0
+The characters were one-dimensional.,0
+The cinematography was too dark.,0
+The humor was too juvenile.,0
+I was moved to tears.,1
+The special effects were overused.,0
+I couldn't connect with the characters.,0
+The story felt disjointed.,0
+The pacing was too slow for my taste.,0
+I loved the chemistry between the actors.,1
+The costumes were distracting.,0
+I felt emotionally drained after watching.,1
+The dialogue was stilted.,0
+The plot was thin.,0
+The cinematography was too busy.,0
+The story was original.,1
+I thought the movie was forgettable.,0
+The acting was wooden.,0
+The plot twists were poorly executed.,0
+I couldn't suspend my disbelief.,0
+The editing was sloppy.,0
+The pacing was perfect.,1
+I loved the humor.,1
+The special effects were underwhelming.,0
+The script was predictable.,0
+The characters were relatable.,1
+I thought the movie was pointless.,0
+The direction was uninspired.,0
+The music was forgettable.,0
+I found the movie unsettling.,1
+The plot was gripping.,1
+The cinematography was too flashy.,0
+The dialogue was cringe-worthy.,0
+I thought the ending was satisfying.,1
+The story was heartwarming.,1
+The characters were flat.,0
+I thought the movie was well-made.,1
+The score was too loud.,0
+The movie was too predictable.,0
+I didn't care about the special effects.,0
+The acting was stiff.,0
+The pacing was uneven.,0
+The themes were heavy-handed.,0
+I loved the opening sequence.,1
+The plot was contrived.,0
+The movie was emotionally draining.,1
+I couldn't stop thinking about the movie for days.,1
+The cinematography was stunning.,1
+The characters were compelling.,1
+The script was clever.,1
+Entertaining film,1
+Great acting and direction,1
+Terrible plot and pacing,0
+Boring and predictable,0
+Best movie of the year,1
+Lacks originality,0
+Unexpected twist ending,1
+Excellent cinematography,1
+Predictable storyline,0
+Waste of time and money,0
+Well-crafted screenplay,1
+Poorly written and acted,0
+Incredible special effects,1
+Good cast but weak story,0
+Stunning visuals,1
+Silly and pointless,0
+Compelling drama,1
+Overrated and dull,0
+Awesome soundtrack,1
+Forgettable and uninspired,0
+Fantastic performance by lead actor,1
+Cliched and uninteresting,0
+Masterpiece of filmmaking,1
+Badly directed and edited,0
+Solid acting and writing,1
+Lame and unoriginal,0
+Well-paced thriller,1
+Annoying characters and dialogue,0
+Captivating story,1
+Dull and lifeless,0
+Outstanding direction and screenplay,1
+Lacking depth and substance,0
+Engaging from beginning to end,1
+Predictable and cliche-ridden,0
+Riveting and intense,1
+Uninspired and mediocre,0
+Oscar-worthy performances,1
+Formulaic and trite,0
+A great cast but a dull story.,0
+The script was awful and the acting wasn't much better.,0
+I was bored to tears by this movie.,0
+This movie was so boring, I couldn't finish it.,0
+The special effects were impressive, but the story fell flat.,0
+The performances were great, but the plot was too predictable.,0
+I expected better from this movie.,0
+The dialogue was cheesy and the characters were poorly developed.,0
+I was disappointed by the lack of originality in this movie.,0
+A forgettable film with no standout performances.,0
+This movie had potential, but it ultimately fell short.,0
+I found this movie to be unengaging and forgettable.,0
+The pacing was off and the story was confusing.,0
+I struggled to stay interested in this movie.,0
+The cinematography was beautiful, but the story was lacking.,0
+This movie was a complete waste of time.,0
+The characters were unlikable and the story was dull.,0
+I was underwhelmed by this movie.,0
+I regret wasting my time on this movie.,0
+The ending was predictable and unsatisfying.,0
+I found this movie to be slow and uninteresting.,0
+The story felt disjointed and the characters were underdeveloped.,0
+I was disappointed by the lack of depth in this movie.,0
+This movie failed to live up to its potential.,0
+The plot was cliche and unoriginal.,0
+The script was predictable and the performances were forgettable.,0
+I didn't care about any of the characters in this movie.,0
+The direction was uninspired and the story was lackluster.,0
+The pacing was sluggish and the story was uneventful.,0
+The special effects were the only redeeming quality of this movie.,0
+The acting was wooden and the story was forgettable.,0
+The cinematography was impressive, but the story was lacking.,0
+This movie was a disappointment from start to finish.,0
+I found this movie to be tedious and uninteresting.,0
+The characters were one-dimensional and the story was uninspired.,0
+This movie was a waste of my time and money.,0
+The plot was convoluted and the pacing was off.,0
+I didn't care about anything that was happening in this movie.,0
+The writing was lazy and the acting was forgettable.,0
+I was underwhelmed by this movie.,0
+The characters were flat and the story was unoriginal.,0
+This movie was a mess from beginning to end.,0
+The story was confusing and the pacing was slow.,0
+The performances were wooden and the story was forgettable.,0
+I was bored out of my mind by this movie.,0
+The direction was uninspired and the script was forgettable.,0
+The pacing was sluggish and the story was predictable.,0
+The acting was mediocre and the story was underdeveloped.,0
+This movie was a letdown from start to finish.,0
+The characters were uninteresting and the story was dull.,0
+I was disappointed by this movie.,0
+This movie failed to hold my attention.,0
+The special effects were impressive, but the story was lacking.,0
+The pacing was off and the characters were forgettable.,0
+I found this movie to be tedious and unremarkable.,0
+The story was weak and the performances were uninspired.,0
+Great acting, amazing story.,1
+Loved the twists and turns.,1
+Not worth your time or money.,0
+Predictable and boring storyline.,0
+Incredible visuals, breathtaking soundtrack.,1
+Terrible acting and a confusing plot.,0
+Couldn't take my eyes off the screen!,1
+Not as good as the hype suggests.,0
+Best movie I've seen in years.,1
+Just plain bad. Don't waste your time.,0
+Great cinematography, terrible script.,0
+Thoroughly enjoyable from beginning to end.,1
+One of the worst movies I've seen.,0
+Kept me on the edge of my seat!,1
+Poorly written with bad acting.,0
+Not bad, but not great either.,0
+The special effects were amazing.,1
+Boring, predictable and unoriginal.,0
+Absolutely loved it! Highly recommend.,1
+Waste of time and money.,0
+Solid performances, weak story.,0
+A movie that truly stays with you.,1
+Disappointing ending ruins otherwise good movie.,0
+Not my cup of tea. Would not recommend.,0
+Captivating and beautifully shot.,1
+Sappy and overrated, not worth it.,0
+A movie that leaves you thinking.,1
+Entertaining but nothing special.,0
+Amazing performances, lackluster plot.,0
+Pure genius! A must-watch.,1
+Cliched and unoriginal storyline.,0
+Kept me guessing until the very end!,1
+Slow-moving with a confusing plot.,0
+One of the best movies I've seen.,1
+Too many plot holes to be enjoyable.,0
+Gripping from start to finish!,1
+Mediocre at best. Wouldn't recommend.,0
+Visually stunning but lacking substance.,0
+A true cinematic masterpiece.,1
+Poorly acted and poorly written.,0
+Not as good as I had hoped.,0
+Chilling and thought-provoking.,1
+Weak characters, uninteresting story.,0
+Intriguing concept but poorly executed.,0
+A must-see for all movie lovers!,1
+Predictable and unoriginal. Waste of time.,0
+Great performances but a slow-moving plot.,0
+Absolutely stunning. A true work of art.,1
+Bland and forgettable. Wouldn't recommend.,0
+Surprisingly good! Highly recommend.,1
+Overrated and lacking substance.,0
+Amazing story with incredible performances.,1
+Disappointing, do not waste your money.,0
+The acting was terrible and the plot made no sense.,0
+This was one of the best movies I have seen in a long time.,1
+The special effects were amazing but the story was lacking.,0
+I couldn't finish this movie, it was so boring.,0
+I was on the edge of my seat the entire time, amazing!,1
+The characters were poorly developed and the dialogue was cringe-worthy.,0
+I loved every minute of this movie, highly recommend!,1
+I expected more from this movie, the ending was disappointing.,0
+The cinematography was stunning and the acting was superb.,1
+I wouldn't recommend this movie to anyone, save your money.,0
+The humor was spot-on and the chemistry between the actors was great.,1
+I was disappointed with this movie, it didn't live up to the hype.,0
+The story was compelling and the acting was phenomenal.,1
+The pacing was slow and the dialogue felt forced.,0
+I was pleasantly surprised by how much I enjoyed this movie.,1
+This movie was a waste of time, I regret seeing it.,0
+The music was fantastic and the visuals were stunning.,1
+I can't believe how bad this movie was, don't waste your time.,0
+The story was predictable but the acting was great.,1
+I was bored throughout this entire movie, not worth it.,0
+The direction was fantastic and the story was engaging.,1
+I would watch this movie again and again, it was that good.,1
+The special effects were impressive but the story was lacking.,0
+I can't recommend this movie enough, it was incredible.,1
+The script was weak and the characters were one-dimensional.,0
+This movie was a rollercoaster of emotions, I loved it.,1
+The dialogue felt stilted and the pacing was slow.,0
+I wish I hadn't wasted my time and money on this movie.,0
+The performances were mediocre and the story was uninspired.,0
+I was hooked from the very beginning, such a great movie!,1
+This movie was overrated and didn't live up to my expectations.,0
+The soundtrack was amazing and the acting was top-notch.,1
+I couldn't believe how predictable this movie was, disappointing.,0
+The chemistry between the actors was amazing and the story was engaging.,1
+I wouldn't recommend this movie to anyone, it was a waste of time.,0
+The cinematography was breathtaking and the story was gripping.,1
+This movie was so bad I walked out of the theater.,0
+The dialogue was cheesy and the acting was mediocre.,0
+I was blown away by this movie, such a great story and performances!,1
+The pacing was slow and the characters were underdeveloped.,0
+This movie was a masterpiece, I can't recommend it enough.,1
+The special effects were impressive but the story was weak.,0
+I was disappointed with this movie, it didn't live up to the hype.,0
+The performances were top-notch and the story was moving.,1
+This movie was a snooze-fest, I couldn't stay awake.,0
+The script was poorly written and the characters were unlikeable.,0
+I was moved to tears by this movie, such a powerful story.,1
+This movie was so boring, I couldn't wait for it to end.,0
+The acting was wooden and the story was forgettable.,0
+I was completely engrossed in this movie, highly recommend!,1
+Great movie!,1
+Awful plot.,0
+Love it.,1
+Hate it!,0
+The worst film.,0
+Best movie ever.,1
+Can't stand it.,0
+Absolutely fantastic!,1
+Terrible acting.,0
+Amazing film.,1
+Disappointing.,0
+"I loved the movie, it was fantastic",1
+"The movie was terrible, I wouldn't recommend it to anyone",0
+"Such a great film, definitely worth watching",1
+"The acting was superb, but the plot was weak",0
+"I found the movie to be quite boring, wouldn't watch it again",0
+"Absolutely amazing movie, exceeded my expectations",1
+"The story was captivating and kept me on the edge of my seat",1
+"The movie failed to impress me, very disappointed",0
+"Fantastic film with great cinematography",1
+"I don't usually watch this genre of movies, but this one was worth it",1
+"The script was weak, ruined an otherwise good movie",0
+"Utterly boring, do not waste your time watching this",0
+"The cast did an excellent job, thoroughly enjoyed the movie",1
+"I was expecting more from this movie, didn't live up to the hype",0
+"Highly recommend this movie, worth every penny",1
+"The movie was a complete letdown, waste of time",0
+"Great movie with unexpected twists and turns",1
+"I found the movie to be very predictable and cliche",0
+"The soundtrack was amazing and added so much to the movie",1
+"The acting was terrible and the plot was all over the place",0
+"I was pleasantly surprised by this movie, didn't expect it to be this good",1
+"I wouldn't recommend this movie to anyone, a complete disappointment",0
+"The cinematography was beautiful, really added to the movie",1
+"I was bored to tears watching this movie, would not recommend",0
+"An incredible movie with strong performances from the cast",1
+"The movie lacked substance and failed to leave an impact",0
+"I was on the edge of my seat throughout the entire movie, highly recommend",1
+"The movie was a mess, the story made no sense",0
+"Great movie with a fantastic storyline",1
+"I found the movie to be quite forgettable and uninteresting",0
+"The movie kept me guessing until the very end, highly recommend",1
+"The acting was wooden and the characters were poorly written",0
+"I was moved to tears by this movie, highly recommend",1
+"The movie was extremely boring, wouldn't watch it again",0
+"Such a powerful movie with great performances from the cast",1
+"The movie was a letdown, didn't live up to my expectations",0
+"Fantastic movie, I was hooked from start to finish",1
+"The script was terrible and the movie was poorly executed",0
+"I would definitely recommend this movie, one of the best I've seen in a while",1
+"The movie was underwhelming and lacked depth",0
+"The visuals in the movie were stunning, really added to the experience",1
+"I found the movie to be quite cheesy and predictable",0
+"The movie had me on the edge of my seat, highly recommend",1
+"I was disappointed by this movie, didn't live up to the hype",0
+"Such a heartwarming movie, highly recommend",1
+"The movie was a complete mess, didn't make any sense",0
+"Great movie with a unique storyline",1
+"The movie was forgettable and lacked impact",0
+"I was completely engrossed in the movie, highly recommend",1
+"The movie was a complete waste of time, wouldn't recommend",0
+"This movie had me on an emotional rollercoaster, highly recommend",1
+"The plot was poorly developed and the acting was super",0
+Boring and predictable.,0
+Fantastic movie with amazing performances.,1
+It was a complete waste of time.,0
+The story was engaging and well-written.,1
+I couldn't wait for it to be over.,0
+The acting was mediocre and the plot was thin.,0
+This film is a masterpiece.,1
+Too long and too slow.,0
+The humor was cringeworthy.,0
+I was on the edge of my seat the entire time.,1
+The special effects were impressive.,1
+I didn't care about any of the characters.,0
+The cinematography was stunning.,1
+I found it to be thought-provoking and powerful.,1
+The ending was unsatisfying.,0
+A terrible movie with terrible acting.,0
+This is a must-see film!,1
+The pacing was perfect.,1
+The writing was lazy and unoriginal.,0
+It was a visual spectacle.,1
+I was moved to tears.,1
+The dialogue was wooden and unnatural.,0
+The direction was superb.,1
+It was confusing and convoluted.,0
+I would recommend this movie to anyone.,1
+The score was beautiful.,1
+I was disappointed by the lack of character development.,0
+The story was touching and heartfelt.,1
+I was pleasantly surprised by how much I enjoyed it.,1
+The action scenes were intense and thrilling.,1
+It was a mess from start to finish.,0
+The performances were outstanding.,1
+The plot was predictable and unoriginal.,0
+I was bored to tears.,0
+The visuals were stunning.,1
+It was a well-crafted and intelligent film.,1
+The story was formulaic and uninteresting.,0
+This movie exceeded my expectations.,1
+The dialogue was sharp and witty.,1
+I couldn't follow the plot.,0
+The acting was top-notch.,1
+It was a forgettable movie with forgettable characters.,0
+The pacing was too slow for my taste.,0
+It was a powerful and emotional experience.,1
+The characters were poorly written and poorly acted.,0
+It was a fun and entertaining movie.,1
+The editing was choppy and disjointed.,0
+The story was gripping and suspenseful.,1
+The cinematography was lackluster.,0
+It was a waste of time and money.,0
+I was completely engrossed in the story.,1
+The acting was wooden and uninspired.,0
+It was a visually stunning movie.,1
+The plot was confusing and convoluted.,0
+I was disappointed by the lack of originality.,0
+The pacing was perfect for the story.,1
+It was a touching and heartwarming film.,1
+The special effects were underwhelming.,0
+I was bored out of my mind.,0
+The performances were mediocre at best.,0
+It was a thought-provoking and insightful film.,1
+The plot was engaging and well-developed.,1
+I found it to be pretentious and self-important.,0
+The direction was masterful.,1
+It was a forgettable movie with forgettable characters.,0
+The humor was hilarious.,1
+The story was weak and uninteresting.,0
+I was blown away by the stunning visuals.,1
+The acting was superb.,1
+It was a convoluted mess of a movie.,0
+I was disappointed by the lack of depth.,0
+The pacing was too slow and meandering.,0
+It was a powerful and poignant film.,1
+The characters were poorly written and underdeveloped.,0
+A thrilling ride!,1
+I was on the edge of my seat.,1
+Incredible story and acting.,1
+A true masterpiece.,1
+Disappointing and boring.,0
+I wouldn't recommend it.,0
+A fun and lighthearted movie.,1
+The special effects were amazing.,1
+A great adaptation of the book.,1
+I couldn't stop laughing.,1
+A bit slow and predictable.,0
+The characters were well-developed.,1
+Not my cup of tea.,0
+A beautiful and moving story.,1
+The plot was confusing.,0
+I'm still thinking about it days later.,1
+I fell asleep halfway through.,0
+A classic that still holds up.,1
+I don't understand the hype.,0
+I couldn't take my eyes off the screen.,1
+A powerful and emotional journey.,1
+The acting was wooden and stiff.,0
+It exceeded my expectations.,1
+The humor fell flat for me.,0
+I'm glad I didn't pay to see it.,0
+A heartwarming and inspiring tale.,1
+I've never seen anything like it.,1
+The pacing was perfect.,1
+It felt like a waste of time.,0
+A cinematic triumph.,1
+I couldn't follow the plot.,0
+The music was beautiful and haunting.,1
+It lacked depth and substance.,0
+A thrilling and suspenseful film.,1
+I was on the edge of my seat the whole time.,1
+The dialogue was clunky and forced.,0
+It left me feeling empty and unsatisfied.,0
+A great movie for a night in.,1
+The special effects were unconvincing.,0
+I'm not usually a fan of this genre, but I loved it.,1
+The story was engaging and kept me guessing.,1
+I was pleasantly surprised by how much I enjoyed it.,1
+The ending was a letdown.,0
+I wish I hadn't wasted my time.,0
+A visually stunning work of art.,1
+It was nothing like the trailer advertised.,0
+The performances were outstanding.,1
+It didn't live up to the hype.,0
+A true cinematic gem.,1
+I couldn't relate to the characters.,0
+The cinematography was breathtaking.,1
+I found it confusing and hard to follow.,0
+A must-see for any movie lover.,1
+The pacing was too slow.,0
+I wouldn't recommend it to anyone.,0
+A great film with a powerful message.,1
+I was disappointed by the lack of character development.,0
+The special effects were lackluster.,0
+It exceeded my expectations in every way.,1
+The script was weak and uninspired.,0
+I don't understand why anyone would like this.,0
+A heartwarming and charming story.,1
+The plot was predictable and cliched.,0
+It left me feeling angry and frustrated.,0
+A classic that still holds up today.,1
+I couldn't connect with the characters.,0
+The score was beautiful and moving.,1
+It was too long and dragged on.,0
+A movie that will stay with you long after it's over.,1
+I didn't care for the main character.,0
+The direction was masterful.,1
+It didn't live up to the book.,0
+A beautiful and captivating film.,1
+I couldn't believe how bad it was.,0
+The story was intriguing and kept me hooked.,1
+It was a waste of my time and money.,0
+A great movie with fantastic acting.,1
+I found the plot to be boring and predictable.,0
+This film was incredibly moving and well made.,1
+The special effects were amazing but the story fell flat.,0
+I couldn't stop laughing throughout the entire movie.,1
+This movie kept me on the edge of my seat the entire time.,1
+The characters were well-developed and relatable.,1
+I was disappointed by the lack of character development.,0
+I loved the cinematography and visuals in this film.,1
+The dialogue was clunky and felt forced.,0
+The pacing of the movie was just right.,1
+I was bored throughout the entire film.,0
+The action sequences were thrilling and well choreographed.,1
+The plot twist at the end was unexpected and satisfying.,1
+The acting was wooden and uninspired.,0
+I thought this movie was overhyped and didn't live up to expectations.,0
+The music was beautiful and added to the emotional impact of the film.,1
+The script was poorly written and lacked depth.,0
+I was pleasantly surprised by how much I enjoyed this film.,1
+The characters were one-dimensional and uninteresting.,0
+The cinematography was breathtaking and added to the overall atmosphere of the movie.,1
+I didn't understand the point of this movie.,0
+This film had me in tears by the end.,1
+The special effects were impressive but the story was forgettable.,0
+I was completely engrossed in the storyline.,1
+The dialogue was witty and well-written.,1
+The movie was too long and dragged on.,0
+I found the film to be thought-provoking and meaningful.,1
+The acting was top-notch and made the characters feel real.,1
+I was confused by the plot and didn't know what was going on.,0
+This movie was a thrilling ride from start to finish.,1
+The pacing was too slow and made the film feel boring.,0
+I thought the movie was well-done and enjoyable.,1
+The characters were annoying and poorly written.,0
+The special effects were lackluster and unimpressive.,0
+This film had me on the edge of my seat the entire time.,1
+The story was interesting but the execution was poor.,0
+The acting was stiff and unconvincing.,0
+I was surprised by how much I disliked this movie.,0
+The film was visually stunning but lacked substance.,0
+The soundtrack was memorable and added to the overall experience of the movie.,1
+I found the characters to be relatable and well-rounded.,1
+The movie was a predictable and cliched mess.,0
+I was disappointed by the lack of character development in the film.,0
+The pacing was off and made the movie feel disjointed.,0
+I was thoroughly entertained by this movie.,1
+The dialogue was stilted and awkward.,0
+The cinematography was breathtaking and added to the emotional impact of the film.,1
+The story was captivating and kept me engaged throughout the entire film.,1
+The special effects were impressive and added to the overall experience of the movie.,1
+I found the movie to be emotionally resonant and well-crafted.,1
+The acting was mediocre and forgettable.,0
+The pacing of the film was perfect and kept me engaged from start to finish.,1
+I thought the movie was a complete waste of time.,0
